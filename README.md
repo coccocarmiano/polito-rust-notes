@@ -10,7 +10,8 @@ Il professore di riferimento da cui ho sbobinato è il prof A. Savino, ma i cont
 
 Se un argomento è dubbio, consiglio di:
 
-- Confrontare l'argomento [Rustonomicon](https://doc.rust-lang.org/nomicon/), "libro" introduttivo a Rust
+- Consultare l'argomento nel [Rust Book](https://doc.rust-lang.org/book/), "libro" **introduttivo** a Rust
+- Consultare l'argomento [Rustonomicon](https://doc.rust-lang.org/nomicon/), "libro" che introduce ad elementi più **avanzati** di Rust (unsafe rust)
 - Confrontare l'argomento nella parte introduttivo della sua [documentazione](https://doc.rust-lang.org/std/index.html)
 - Aprire una PR per correggere l'errore. ❤
 
