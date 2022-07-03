@@ -23,7 +23,7 @@ Le alternative sono:
 
 - Utilizzare un IDE che supporti la visualizzazione
   - e.g.: [VS Code](https://code.visualstudio.com/) con estensione [Markdown All-in-One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-- Leggerle qui tramite singoli file o andando nella cartella `imgs` della repository
+- Leggerle qui tramite singoli file o in un blocco unico andando nella cartella `mds` 
 - Qualunque altro lettore Markdown
 
 ## PDF
